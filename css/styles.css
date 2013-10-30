@@ -1,0 +1,8 @@
+body {
+  background: #29AB46;
+}
+
+circle {
+  fill: red;
+  stroke-width: 1.5px;
+}
