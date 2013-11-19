@@ -5,7 +5,7 @@ var w = window.innerWidth,
     z = d3.scale.category10(),
     i = 0;
 
-var svg = d3.select("body").append("svg:svg")
+var svg = d3.select("#monster-box").append("svg:svg")
     .attr("width", w)
     .attr("height", h)
     .style("pointer-events", "all")
